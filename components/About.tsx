@@ -19,7 +19,7 @@ export default function About() {
 
       <p className="max-w-3xl mx-auto text-center mt-10 text-xl leading-9">
 
-        I am a passionate Full Stack Developer currently pursuing
+        Hey , I am a passionate Full Stack Developer currently pursuing
         Computer Science Engineering.
 
       </p>
